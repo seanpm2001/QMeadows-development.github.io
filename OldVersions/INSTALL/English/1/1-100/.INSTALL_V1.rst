@@ -1,6 +1,9 @@
----
+
+----
+
+====
 Installing this Miscellaneous project by @seanpm2001
----
+====
 
 <!--
 
@@ -23,6 +26,8 @@ Some included files are in PDF format. They should be opened with a document vie
 
 Install instructions need to be added manually.
 
----
+====
 Install instructions file version: 1 (Monday, August 23rd 2021 at 6:31 pm)
----
+====
+
+----
